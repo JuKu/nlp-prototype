@@ -429,3 +429,6 @@ gradle-app.setting
 
 temp
 output
+
+# generated test files
+**/generated/**
